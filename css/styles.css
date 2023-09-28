@@ -62,7 +62,6 @@ img {
         font-weight: 700;
         line-height: 1.17;
         letter-spacing: 0.03em;
-        margin-right: 76px;
         padding: 24px 0;
         
 
@@ -120,7 +119,9 @@ img {
 
 .header-nav {
     display: flex;
+    gap: 76px;
     align-items: center
+    
 }
 
 .menu {
